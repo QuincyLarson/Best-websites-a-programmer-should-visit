@@ -231,6 +231,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Learn AI
  * [Unsupervised Sentiment Neuron ](https://blog.openai.com/unsupervised-sentiment-neuron/)
+ * [fast.ai](http://www.fast.ai/) -Free Neural Net MOOC taught by Kaggle champion
  * [Robots that learn](https://blog.openai.com/robots-that-learn/)
  * [grakn.ai](https://grakn.ai/)
 
@@ -265,6 +266,11 @@ When learning CS there are some useful sites you must know to get always informe
   * [ITCuties ](https://www.youtube.com/user/itcuties/videos)
   * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : For those who think CS lacks glamor :P
   * [Coding Blocks](https://www.youtube.com/CodingBlocks) : Tutorials, how to's, tips and tricks
+  * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) : No BS web app tutorials with practical projects
+  * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) : Gain skills from ex-Google Software Engineer!
+  * [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ) : Learn programming concepts and challenges with quick videos
+  * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) : Kung Fu Your Web Skills
+  
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
@@ -389,6 +395,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Vim Tutorial Videos - Flarfnoogins ](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
   * [CS1: Higher Computing - Richard Buckland UNSW ](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
   * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
+  * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) : Excellent web app tutorials
 
 # Online Compiler and Sharing Code snippets
   * [CodePad](https://codepad.remoteinterview.io/) : Code editor to try, test and run 25+ languages
@@ -451,5 +458,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
   * [Reddit the front page of the internet](http://reddit.com/) : Where free time goes to die
+  * [Ashens](https://www.youtube.com/channel/UCxt9Pvye-9x_AIcb1UtmF1Q) : Entertaining video reviewer
 
   ___Maintained with :heart: by sdmg15 & al___
