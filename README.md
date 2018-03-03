@@ -389,6 +389,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Vim Tutorial Videos - Flarfnoogins ](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
   * [CS1: Higher Computing - Richard Buckland UNSW ](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
   * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
+  * [JavaScript 30 | Build 30 things with JavaScript](https://www.youtube.com/user/wesbos/featured) : Build 30 things in 30 days with 30 tutorials.
 
 # Online Compiler and Sharing Code snippets
   * [CodePad](https://codepad.remoteinterview.io/) : Code editor to try, test and run 25+ languages
